@@ -1,0 +1,4 @@
+Juan,Tiempo Completo,120,5,SI,SI,SI
+Ana,Tiempo Parcial,15,3,SI,SI,SI
+Pedro,Tiempo Completo,80,0,NO,SI,NO
+Maria,Tiempo Parcial,10,4,NO,NO,SI
