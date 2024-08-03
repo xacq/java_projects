@@ -1,0 +1,42 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/xacq/OneDrive/Documents/NetBeansProjects/CalculoDistancia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/xacq/OneDrive/Documents/NetBeansProjects/CalculoDistancia/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculoDistancia 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/xacq/OneDrive/Documents/NetBeansProjects/CalculoDistancia/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CalculoDistancia 1.0-SNAPSHOT API'
+prog.calculodistancia
+'C:/Users/xacq/OneDrive/Documents/NetBeansProjects/CalculoDistancia/src/main/java/prog/calculodistancia/CalculoAB.java'
+'C:/Users/xacq/OneDrive/Documents/NetBeansProjects/CalculoDistancia/src/main/java/prog/calculodistancia/Datos.java'
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\src\main\java = 1668997934655
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\allclasses-frame.html = 1669003808770
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\allclasses-noframe.html = 1669003808774
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\constant-values.html = 1669003808617
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\deprecated-list.html = 1669003808765
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\help-doc.html = 1669003808809
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\index-all.html = 1669003808755
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\index.html = 1669003808779
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\overview-tree.html = 1669003808741
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\package-list = 1669003808555
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\script.js = 1669003808834
+C:\Users\xacq\OneDrive\Documents\NetBeansProjects\CalculoDistancia\target\apidocs\stylesheet.css = 1669003808831
